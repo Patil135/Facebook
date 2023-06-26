@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-24T13:56:48 IST" name="Suite" finished-at="2023-06-24T13:57:05 IST" duration-ms="17371">
+    <groups>
+    </groups>
+    <test started-at="2023-06-24T13:56:48 IST" name="Test" finished-at="2023-06-24T13:57:05 IST" duration-ms="17371">
+      <class name="Meta.FacebookTitle">
+        <test-method signature="title()[pri:0, instance:Meta.FacebookTitle@7920ba90]" started-at="2023-06-24T13:56:48 IST" name="title" finished-at="2023-06-24T13:56:53 IST" duration-ms="4674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+      </class> <!-- Meta.FacebookTitle -->
+      <class name="Meta.CreateNewAccount">
+        <test-method signature="title3()[pri:0, instance:Meta.CreateNewAccount@21507a04]" started-at="2023-06-24T13:56:53 IST" name="title3" finished-at="2023-06-24T13:56:55 IST" duration-ms="2772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title3 -->
+      </class> <!-- Meta.CreateNewAccount -->
+      <class name="Meta.UrlPrint">
+        <test-method signature="title1()[pri:0, instance:Meta.UrlPrint@6295d394]" started-at="2023-06-24T13:57:00 IST" name="title1" finished-at="2023-06-24T13:57:05 IST" duration-ms="5596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title1 -->
+      </class> <!-- Meta.UrlPrint -->
+      <class name="Meta.ForgotPassword">
+        <test-method signature="title()[pri:0, instance:Meta.ForgotPassword@143640d5]" started-at="2023-06-24T13:56:55 IST" name="title" finished-at="2023-06-24T13:57:00 IST" duration-ms="4270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- title -->
+      </class> <!-- Meta.ForgotPassword -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
